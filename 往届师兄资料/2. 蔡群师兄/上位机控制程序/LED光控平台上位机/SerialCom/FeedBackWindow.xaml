@@ -1,0 +1,23 @@
+﻿<Window x:Class="SerialCom.FeedBackWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Title="反馈(Feedback)" Height="250" Width="550" WindowStyle="ToolWindow">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBox Text="浙江理工大学  虚拟现实实验室  ( Zhejiang Sci-Tech University Virtual Reality Laboratory&#xD;&#xA;北京大学         多感觉通道实验室 （Peking University Multisensory Laboratory）" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="0" FontSize="12" Margin="25,13,0,1"  BorderThickness="0" Background="{x:Null}"  BorderBrush="{x:Null}"  IsReadOnly="True" TextChanged="TextBox_TextChanged"  />
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="1" Margin="-22,0,10,0" Width="556" >
+                <Image x:Name="weibo" Source="image/11111111111.jpg" VerticalAlignment="Center" Height="53" Margin="0,34,50,85" PreviewMouseDown="Image_PreviewMouseDown_1" MouseEnter="Image_MouseEnter" MouseLeave="Image_MouseLeave" Width="552"/>
+            </StackPanel>
+            <TextBlock HorizontalAlignment="Left" Margin="209,110,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="www.wzyang.com"/><LineBreak/><Run Text="E"/><Run Text="mail"/><Run Text=":"/><Run Text=" ywz"/><Run Text="@"/><Run Text="zstu.edu.cn"/><LineBreak/><Run Text="Tel: 0571-86843662"/></TextBlock>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,258 @@
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\bin\Debug\SerialCom.exe.config
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SerialCom.csprojResolveAssemblyReference.cache
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\App.g.cs
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SerialCom_MarkupCompile.cache
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SerialCom.g.resources
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.Cache
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SerialCom.exe
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SerialCom.pdb
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\MainWindow.baml
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\MainWindow.g.cs
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SerialCom_MarkupCompile.lref
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SaveModWindow.baml
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SaveModWindow.g.cs
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\InfoWindow.baml
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\InfoWindow.g.cs
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\FeedBackWindow.baml
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\FeedBackWindow.g.cs
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\bin\Debug\SerialCom.exe.manifest
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\bin\Debug\SerialCom.application
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SerialCom.exe.manifest
+C:\Users\sony\Documents\Visual Studio 2013\Projects\SerialCom\SerialCom\obj\Debug\SerialCom.application
+G:\SerialCom\SerialCom\bin\Debug\SerialCom.exe.config
+G:\SerialCom\SerialCom\obj\Debug\SerialCom.exe
+G:\SerialCom\SerialCom\obj\Debug\SerialCom.pdb
+G:\SerialCom\SerialCom\bin\Debug\SerialCom.exe.manifest
+G:\SerialCom\SerialCom\bin\Debug\SerialCom.application
+G:\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+G:\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+G:\SerialCom\SerialCom\obj\Debug\SerialCom.csprojResolveAssemblyReference.cache
+G:\SerialCom\SerialCom\obj\Debug\FeedBackWindow.baml
+G:\SerialCom\SerialCom\obj\Debug\InfoWindow.baml
+G:\SerialCom\SerialCom\obj\Debug\SaveModWindow.baml
+G:\SerialCom\SerialCom\obj\Debug\FeedBackWindow.g.cs
+G:\SerialCom\SerialCom\obj\Debug\InfoWindow.g.cs
+G:\SerialCom\SerialCom\obj\Debug\MainWindow.g.cs
+G:\SerialCom\SerialCom\obj\Debug\SaveModWindow.g.cs
+G:\SerialCom\SerialCom\obj\Debug\App.g.cs
+G:\SerialCom\SerialCom\obj\Debug\SerialCom_MarkupCompile.cache
+G:\SerialCom\SerialCom\obj\Debug\SerialCom_MarkupCompile.lref
+G:\SerialCom\SerialCom\obj\Debug\MainWindow.baml
+G:\SerialCom\SerialCom\obj\Debug\SerialCom.g.resources
+G:\SerialCom\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+G:\SerialCom\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.Cache
+G:\SerialCom\SerialCom\obj\Debug\SerialCom.exe.manifest
+G:\SerialCom\SerialCom\obj\Debug\SerialCom.application
+G:\SerialCom - 副本\SerialCom\bin\Debug\SerialCom.exe.config
+G:\SerialCom - 副本\SerialCom\obj\Debug\SerialCom.exe
+G:\SerialCom - 副本\SerialCom\obj\Debug\SerialCom.pdb
+G:\SerialCom - 副本\SerialCom\bin\Debug\SerialCom.exe.manifest
+G:\SerialCom - 副本\SerialCom\bin\Debug\SerialCom.application
+G:\SerialCom - 副本\SerialCom\bin\Debug\SerialCom.exe
+G:\SerialCom - 副本\SerialCom\bin\Debug\SerialCom.pdb
+G:\SerialCom - 副本\SerialCom\obj\Debug\SerialCom.csprojResolveAssemblyReference.cache
+G:\SerialCom - 副本\SerialCom\obj\Debug\FeedBackWindow.baml
+G:\SerialCom - 副本\SerialCom\obj\Debug\InfoWindow.baml
+G:\SerialCom - 副本\SerialCom\obj\Debug\SaveModWindow.baml
+G:\SerialCom - 副本\SerialCom\obj\Debug\FeedBackWindow.g.cs
+G:\SerialCom - 副本\SerialCom\obj\Debug\InfoWindow.g.cs
+G:\SerialCom - 副本\SerialCom\obj\Debug\MainWindow.g.cs
+G:\SerialCom - 副本\SerialCom\obj\Debug\SaveModWindow.g.cs
+G:\SerialCom - 副本\SerialCom\obj\Debug\App.g.cs
+G:\SerialCom - 副本\SerialCom\obj\Debug\SerialCom_MarkupCompile.cache
+G:\SerialCom - 副本\SerialCom\obj\Debug\SerialCom_MarkupCompile.lref
+G:\SerialCom - 副本\SerialCom\obj\Debug\MainWindow.baml
+G:\SerialCom - 副本\SerialCom\obj\Debug\SerialCom.g.resources
+G:\SerialCom - 副本\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+G:\SerialCom - 副本\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.Cache
+G:\SerialCom - 副本\SerialCom\obj\Debug\SerialCom.exe.manifest
+G:\SerialCom - 副本\SerialCom\obj\Debug\SerialCom.application
+C:\Users\sony\Desktop\SerialCom115200\SerialCom\bin\Debug\SerialCom.exe.config
+C:\Users\sony\Desktop\SerialCom115200\SerialCom\obj\Debug\SerialCom.exe
+C:\Users\sony\Desktop\SerialCom115200\SerialCom\obj\Debug\SerialCom.pdb
+F:\Clouds\历史项目\SerialCom\SerialCom\bin\Debug\SerialCom.exe.config
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SerialCom.exe
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SerialCom.pdb
+F:\Clouds\历史项目\SerialCom\SerialCom\bin\Debug\SerialCom.exe.manifest
+F:\Clouds\历史项目\SerialCom\SerialCom\bin\Debug\SerialCom.application
+F:\Clouds\历史项目\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+F:\Clouds\历史项目\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SerialCom.csprojResolveAssemblyReference.cache
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\FeedBackWindow.baml
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\InfoWindow.baml
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SaveModWindow.baml
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\FeedBackWindow.g.cs
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\InfoWindow.g.cs
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\MainWindow.g.cs
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SaveModWindow.g.cs
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\App.g.cs
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SerialCom_MarkupCompile.cache
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SerialCom_MarkupCompile.lref
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\MainWindow.baml
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SerialCom.g.resources
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.Cache
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SerialCom.exe.manifest
+F:\Clouds\历史项目\SerialCom\SerialCom\obj\Debug\SerialCom.application
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\bin\Debug\SerialCom.exe.config
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SerialCom.exe
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SerialCom.pdb
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SerialCom.csprojResolveAssemblyReference.cache
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\FeedBackWindow.baml
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\InfoWindow.baml
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SaveModWindow.baml
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\FeedBackWindow.g.cs
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\InfoWindow.g.cs
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\MainWindow.g.cs
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SaveModWindow.g.cs
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\App.g.cs
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SerialCom_MarkupCompile.cache
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SerialCom_MarkupCompile.lref
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\MainWindow.baml
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SerialCom.g.resources
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.Cache
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\bin\Debug\SerialCom.exe.manifest
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\bin\Debug\SerialCom.application
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SerialCom.exe.manifest
+C:\Users\RxsFc\Desktop\SerialCom\SerialCom\obj\Debug\SerialCom.application
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\bin\Debug\SerialCom.exe.config
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom.exe
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom.pdb
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\bin\Debug\SerialCom.exe.manifest
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\bin\Debug\SerialCom.application
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom.csprojResolveAssemblyReference.cache
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\FeedBackWindow.baml
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\InfoWindow.baml
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SaveModWindow.baml
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\FeedBackWindow.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\InfoWindow.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\MainWindow.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SaveModWindow.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\App.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom_MarkupCompile.cache
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom_MarkupCompile.lref
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\MainWindow.baml
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom.g.resources
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.Cache
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom.exe.manifest
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom.application
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\shiyong.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\shiyong.baml
+C:\Users\RxsFc\Desktop\北大led光控全版\SerialCom\obj\Debug\SerialCom_Content.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\bin\Debug\SerialCom.exe.config
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom.exe
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom.pdb
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\bin\Debug\SerialCom.exe.manifest
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\bin\Debug\SerialCom.application
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom.csprojResolveAssemblyReference.cache
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\FeedBackWindow.baml
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\InfoWindow.baml
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SaveModWindow.baml
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\FeedBackWindow.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\InfoWindow.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\MainWindow.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SaveModWindow.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\shiyong.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\App.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom_Content.g.cs
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom_MarkupCompile.cache
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom_MarkupCompile.lref
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\MainWindow.baml
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\shiyong.baml
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom.g.resources
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.Cache
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom.exe.manifest
+C:\Users\RxsFc\Desktop\北大led光控全版 终\SerialCom\obj\Debug\SerialCom.application
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.exe.config
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.exe
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.pdb
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.exe.manifest
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.application
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.csprojResolveAssemblyReference.cache
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\FeedBackWindow.baml
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\InfoWindow.baml
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SaveModWindow.baml
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\FeedBackWindow.g.cs
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\InfoWindow.g.cs
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\MainWindow.g.cs
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SaveModWindow.g.cs
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\shiyong.g.cs
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\App.g.cs
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom_Content.g.cs
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom_MarkupCompile.cache
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom_MarkupCompile.lref
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\MainWindow.baml
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\shiyong.baml
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.g.resources
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.Cache
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.exe.manifest
+C:\Users\RxsFc\Desktop\LED控制系统整合\项目程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.application
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.exe.config
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.exe
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.pdb
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.exe.manifest
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.application
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.csprojResolveAssemblyReference.cache
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\FeedBackWindow.baml
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\InfoWindow.baml
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SaveModWindow.baml
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\FeedBackWindow.g.cs
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\InfoWindow.g.cs
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\MainWindow.g.cs
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SaveModWindow.g.cs
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\shiyong.g.cs
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\App.g.cs
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom_Content.g.cs
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom_MarkupCompile.cache
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom_MarkupCompile.lref
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\MainWindow.baml
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\shiyong.baml
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.g.resources
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.Cache
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.exe.manifest
+C:\Users\RxsFc\Desktop\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.application
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.exe.config
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.exe.manifest
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.application
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.exe
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\bin\Debug\SerialCom.pdb
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.csprojAssemblyReference.cache
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\FeedBackWindow.baml
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\InfoWindow.baml
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SaveModWindow.baml
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\FeedBackWindow.g.cs
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\InfoWindow.g.cs
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\MainWindow.g.cs
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SaveModWindow.g.cs
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\shiyong.g.cs
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\App.g.cs
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom_Content.g.cs
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom_MarkupCompile.cache
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom_MarkupCompile.lref
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\MainWindow.baml
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\shiyong.baml
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.g.resources
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.cache
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.exe.manifest
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.application
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.exe
+D:\实验室\1. 实验室内容\往届师兄资料\2. 蔡群师兄\上位机控制程序\LED光控平台上位机\SerialCom\obj\Debug\SerialCom.pdb

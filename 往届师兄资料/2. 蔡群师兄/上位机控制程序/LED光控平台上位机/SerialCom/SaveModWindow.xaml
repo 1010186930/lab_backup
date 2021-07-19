@@ -1,0 +1,23 @@
+﻿<Window x:Class="SerialComWindow.SaveModWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Title="保存" Height="140" Width="400" WindowStyle="ToolWindow" Visibility="Visible">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Text="请选择保存方式..." HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0" FontSize="14"></TextBlock>
+            <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,0,10" >
+                <Button Content="保存为新文件" Height="25" Width="90" Margin="10,0,10,0" Click="saveNewBtn"></Button>
+                <Button Content="添加到已有文件" Height="25" Width="90" Margin="10,0,10,0" Click="saveOldBtn"></Button>
+                <Button Content="取消" Height="25" Width="90" Margin="10,0,10,0" Click="Cancel"></Button>
+            </StackPanel>
+
+        </Grid>
+        
+    </Grid>
+</Window>

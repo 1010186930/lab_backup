@@ -1,0 +1,15 @@
+﻿<Window x:Class="SerialCom.shiyong"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SerialCom"
+        mc:Ignorable="d"
+        Title="使用说明" Height="300" Width="583" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="label" Content="组成说明：&#xD;&#xA;       点阵动点控制系统由&#xD;&#xA;上位机与下位机两部分组&#xD;&#xA;成。上位机人工操作发送&#xD;&#xA;指令，下位机完成相应动&#xD;&#xA;作。上位机界面由串口数&#xD;&#xA;据配置/工具栏界面、显示&#xD;&#xA;界面、数据发送配置界面&#xD;&#xA;、LED控制界面、动点控制&#xD;&#xA;界面、LED亮度调节界面&#xD;&#xA;以及工作板区域划分界面&#xD;&#xA;组成。&#xD;&#xA;使用流程：&#xD;&#xA;        配置串口数据，选择&#xD;&#xA;控制LED行或列\动点，发&#xD;&#xA;送数据，点亮、启动动点。&#xD;&#xA;操作结束以后手动清屏。" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Height="251" Width="130" FontSize="10"/>
+        <Label x:Name="label1" HorizontalAlignment="Left" Margin="150,0,0,0" VerticalAlignment="Top" Height="271" Width="427">
+            <Image x:Name="____11SE_OG_2NWX5E3_HEQT_png" Height="261" Source="(%)11SE_OG(2NWX5E3{HEQT.png" Stretch="Fill" Width="410"/>
+        </Label>
+    </Grid>
+</Window>
