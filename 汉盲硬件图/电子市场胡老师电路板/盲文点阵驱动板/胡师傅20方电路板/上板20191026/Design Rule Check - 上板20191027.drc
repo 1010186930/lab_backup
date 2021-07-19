@@ -1,0 +1,97 @@
+Protel Design System Design Rule Check
+PCB File : F:\ио╟Е20191026\ио╟Е20191027.PCBDOC
+Date     : 2020/1/7
+Time     : 15:26:17
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-1(-58mm,-31.46mm) on Multi-Layer And Track (-56.713mm,-31.979mm)(-56.713mm,1.478mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-10(-35.14mm,-31.46mm) on Multi-Layer And Track (-33.888mm,-32.712mm)(-33.888mm,-23.697mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-10(-35.14mm,-31.46mm) on Multi-Layer And Track (-36.428mm,-32.712mm)(-36.428mm,-20.237mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-11(-32.6mm,-31.46mm) on Multi-Layer And Track (-31.348mm,-32.712mm)(-31.348mm,-27.157mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-11(-32.6mm,-31.46mm) on Multi-Layer And Track (-33.888mm,-32.712mm)(-33.888mm,-23.697mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-12(-30.06mm,-31.46mm) on Multi-Layer And Track (-28.808mm,-32.712mm)(-28.808mm,-30.617mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-12(-30.06mm,-31.46mm) on Multi-Layer And Track (-31.348mm,-32.712mm)(-31.348mm,-27.157mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-13(-27.52mm,-31.46mm) on Multi-Layer And Track (-26.268mm,-32.712mm)(-26.268mm,-27.267mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-13(-27.52mm,-31.46mm) on Multi-Layer And Track (-28.808mm,-32.712mm)(-28.808mm,-30.617mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-14(-24.98mm,-31.46mm) on Multi-Layer And Track (-23.728mm,-32.712mm)(-23.728mm,-27.728mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-14(-24.98mm,-31.46mm) on Multi-Layer And Track (-26.268mm,-32.712mm)(-26.268mm,-27.267mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-15(-22.44mm,-31.46mm) on Multi-Layer And Track (-21.188mm,-32.712mm)(-21.188mm,-29.188mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-15(-22.44mm,-31.46mm) on Multi-Layer And Track (-23.728mm,-32.712mm)(-23.728mm,-27.728mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-16(-19.9mm,-31.46mm) on Multi-Layer And Track (-18.648mm,-32.712mm)(-18.648mm,-30.648mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-16(-19.9mm,-31.46mm) on Multi-Layer And Track (-21.188mm,-32.712mm)(-21.188mm,-29.188mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-17(-17.36mm,-31.46mm) on Multi-Layer And Track (-16.073mm,-32.072mm)(-16.073mm,-30.941mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-17(-17.36mm,-31.46mm) on Multi-Layer And Track (-18.648mm,-32.712mm)(-18.648mm,-30.648mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-18(-14.82mm,-31.46mm) on Multi-Layer And Track (-13.533mm,-32.533mm)(-13.533mm,-30.941mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-18(-14.82mm,-31.46mm) on Multi-Layer And Track (-16.073mm,-30.941mm)(0.869mm,-14mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-18(-14.82mm,-31.46mm) on Multi-Layer And Track (-16.073mm,-32.072mm)(-16.073mm,-30.941mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-19(-12.28mm,-31.46mm) on Multi-Layer And Track (-11.028mm,-32.712mm)(-11.028mm,-30.976mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-19(-12.28mm,-31.46mm) on Multi-Layer And Track (-13.533mm,-30.941mm)(0.409mm,-17mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-19(-12.28mm,-31.46mm) on Multi-Layer And Track (-13.533mm,-32.533mm)(-13.533mm,-30.941mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-2(-55.46mm,-31.46mm) on Multi-Layer And Track (-54.208mm,-32.712mm)(-54.208mm,-30.208mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-2(-55.46mm,-31.46mm) on Multi-Layer And Track (-56.713mm,-31.979mm)(-55.46mm,-33.231mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-2(-55.46mm,-31.46mm) on Multi-Layer And Track (-56.713mm,-31.979mm)(-56.713mm,1.478mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-20(-9.74mm,-31.46mm) on Multi-Layer And Track (-11.028mm,-30.976mm)(-0.051mm,-20mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-20(-9.74mm,-31.46mm) on Multi-Layer And Track (-11.028mm,-32.712mm)(-11.028mm,-30.976mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-3(-52.92mm,-31.46mm) on Multi-Layer And Track (-54.208mm,-32.712mm)(-54.208mm,-30.208mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-4(-50.38mm,-31.46mm) on Multi-Layer And Track (-49.128mm,-32.712mm)(-49.128mm,-2.937mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-5(-47.84mm,-31.46mm) on Multi-Layer And Track (-46.588mm,-32.712mm)(-46.588mm,-6.397mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-5(-47.84mm,-31.46mm) on Multi-Layer And Track (-49.128mm,-32.712mm)(-49.128mm,-2.937mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-6(-45.3mm,-31.46mm) on Multi-Layer And Track (-44.048mm,-32.712mm)(-44.048mm,-9.857mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-6(-45.3mm,-31.46mm) on Multi-Layer And Track (-46.588mm,-32.712mm)(-46.588mm,-6.397mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-7(-42.76mm,-31.46mm) on Multi-Layer And Track (-41.508mm,-32.712mm)(-41.508mm,-13.317mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-7(-42.76mm,-31.46mm) on Multi-Layer And Track (-44.048mm,-32.712mm)(-44.048mm,-9.857mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-8(-40.22mm,-31.46mm) on Multi-Layer And Track (-38.968mm,-32.712mm)(-38.968mm,-19.968mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-8(-40.22mm,-31.46mm) on Multi-Layer And Track (-41.508mm,-32.712mm)(-41.508mm,-13.317mm) on Top Layer 
+   Violation between Clearance Constraint: (0.24mm < 0.3mm) Between Pad XP-9(-37.68mm,-31.46mm) on Multi-Layer And Track (-36.428mm,-32.712mm)(-36.428mm,-20.237mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.3mm) Between Pad XP-9(-37.68mm,-31.46mm) on Multi-Layer And Track (-38.968mm,-32.712mm)(-38.968mm,-19.968mm) on Top Layer 
+Rule Violations :40
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=0.381mm) (All)
+   Violation between Width Constraint: Track (1.769mm,12.34mm)(7.769mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-10.231mm,12.34mm)(-4.231mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (13.769mm,12.34mm)(19.769mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-16.231mm,12.34mm)(-10.231mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (19.769mm,12.34mm)(25.769mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-22.231mm,12.34mm)(-16.231mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (25.769mm,12.34mm)(31.769mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-28.231mm,12.34mm)(-22.231mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-3.769mm,31mm)(56.231mm,31mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (31.769mm,12.34mm)(37.769mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-34.231mm,12.34mm)(-28.231mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (37.769mm,12.34mm)(43.769mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-4.231mm,12.34mm)(1.769mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-40.231mm,12.34mm)(-34.231mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (43.769mm,12.34mm)(49.769mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-46.231mm,12.34mm)(-40.231mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (49.769mm,12.34mm)(55.769mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-52.231mm,12.34mm)(-46.231mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (55.769mm,12.34mm)(62.89mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (56.261mm,31.03mm)(59.71mm,31.03mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-57.769mm,31mm)(-3.769mm,31mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-58.231mm,12.34mm)(-52.231mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (59.71mm,31.03mm)(62.89mm,27.85mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (62.89mm,12.34mm)(62.89mm,27.85mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-64.46mm,-33mm)(-64.46mm,6.111mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (-64.46mm,6.111mm)(-58.231mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+   Violation between Width Constraint: Track (7.769mm,12.34mm)(13.769mm,12.34mm) on Top Layer Actual Width = 3mm, Target Width = 2.54mm
+Rule Violations :27
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 67
+Waived Violations : 0
+Time Elapsed        : 00:00:01

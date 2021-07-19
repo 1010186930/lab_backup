@@ -1,0 +1,1 @@
+"..\user\XFS5051.C" BROWSE INCDIR(..\code;..\user) DEBUG OBJECTEXTEND PRINT(..\obj\XFS5051.lst) OBJECT(..\obj\XFS5051.obj)

@@ -1,0 +1,206 @@
+[2019-10-28 10:23:Program Success:32FFD6055056333415741143 D:\实验室备份\txt显示\OBJ\HZ.hex
+[2019-10-28 11:08:Program Success:32FFD6055056333415741143 D:\实验室备份\txt显示\OBJ\HZ.hex
+[2019-10-28 11:10:Program Success:32FFD6055056333415741143 D:\实验室备份\txt显示\OBJ\HZ.hex
+[2019-10-28 12:02:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\txt显示多目录？\OBJ\HZ.hex
+[2019-10-28 12:27:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\txt显示多目录？\OBJ\HZ.hex
+[2019-10-28 12:51:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\txt显示多目录？\OBJ\HZ.hex
+[2019-10-28 13:07:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\txt显示多目录？\OBJ\HZ.hex
+[2019-10-29 16:53:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\txt显示多目录？\OBJ\HZ.hex
+[2019-10-29 16:54:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\txt显示多目录？\OBJ\HZ.hex
+[2019-10-29 21:37:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\txt显示多目录？\OBJ\HZ.hex
+[2019-11-04 13:21:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\多目录显示\OBJ\HZ.hex
+[2019-11-05 18:52:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\多目录显示\OBJ\HZ.hex
+[2019-11-05 18:55:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\多目录显示\OBJ\HZ.hex
+[2019-11-06 20:43:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\多目录显示\OBJ\HZ.hex
+[2019-11-06 21:18:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\多目录显示\OBJ\HZ.hex
+[2019-11-11 16:48:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\多目录显示\OBJ\HZ.hex
+[2019-11-11 16:52:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\多目录显示\OBJ\HZ.hex
+[2019-11-11 16:55:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\多目录显示\OBJ\HZ.hex
+[2019-11-11 17:00:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\多目录显示\OBJ\HZ.hex
+[2019-11-11 17:05:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\多目录显示\OBJ\HZ.hex
+[2019-11-11 17:07:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\多目录显示\OBJ\HZ.hex
+[2019-11-11 18:09:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\多目录显示\OBJ\HZ.hex
+[2019-11-11 18:11:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\多目录显示\OBJ\HZ.hex
+[2019-11-11 18:14:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\多目录显示\OBJ\HZ.hex
+[2019-11-11 21:09:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\多目录显示\OBJ\HZ.hex
+[2019-11-11 21:14:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\多目录显示\OBJ\HZ.hex
+[2019-11-12 14:13:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录\OBJ\HZ.hex
+[2019-11-15 15:20:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-15 20:22:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-18 16:47:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-19 15:14:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\四个目录\OBJ\HZ.hex
+[2019-11-19 15:21:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-20 11:09:Program Success:35FFD9053037573632540551 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-25 15:13:Program Success:32FFD4055056333414711243 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-25 16:49:Program Success:32FFD6055056333404741143 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-26 13:58:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-26 14:07:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-26 14:54:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-28 20:59:Program Success:38FFD8054D41383228720843 D:\学习资料\精英板 资料盘(A盘)\4，程序源码\2，标准例程-库函数版本\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-28 21:02:Program Success:38FFD8054D41383228720843 D:\学习资料\精英板 资料盘(A盘)\4，程序源码\2，标准例程-库函数版本\实验13 TFTLCD显示实验\OBJ\LCD.hex
+[2019-11-29 16:26:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-29 16:33:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-29 16:52:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-29 21:34:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-29 21:38:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-29 21:42:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-30 19:53:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录\OBJ\HZ.hex
+[2019-11-30 20:00:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 20:05:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 20:11:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-30 20:12:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-30 20:39:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 20:50:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 20:56:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 21:00:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 21:12:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 21:14:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 21:17:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 21:21:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-30 21:29:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-30 21:32:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验16 待机唤醒实验\OBJ\WKUP.hex
+[2019-11-30 21:36:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 21:40:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-11-30 21:48:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-11-30 21:49:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机5分钟？\OBJ\HZ.hex
+[2019-11-30 22:02:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\五个目录\OBJ\HZ.hex
+[2019-12-05 19:14:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 20:43:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 20:46:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 20:54:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 20:56:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 21:03:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 21:08:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 21:13:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 21:16:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 21:18:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 21:32:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-05 21:37:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲点显机\五个目录自动关机 测试版\OBJ\HZ.hex
+[2019-12-09 13:57:Program Success:33FFD7055059363120850343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录\OBJ\HZ.hex
+[2019-12-09 14:05:Program Success:33FFD9055059363119510243 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\汉字显示实验\OBJ\test.hex
+[2019-12-09 14:07:Program Success:33FFD9055059363119510243 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录\OBJ\HZ.hex
+[2019-12-12 16:21:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录自动关机5分钟？\OBJ\HZ.hex
+[2019-12-12 19:26:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录自动关机5分钟？\OBJ\HZ.hex
+[2019-12-12 19:43:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录自动关机 10分钟\OBJ\HZ.hex
+[2019-12-13 12:27:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录\OBJ\HZ.hex
+[2019-12-13 12:39:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录自动关机 10分钟\OBJ\HZ.hex
+[2019-12-13 12:45:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录\OBJ\HZ.hex
+[2019-12-16 10:17:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\keil3_3（确定+返回+书签正确）赵维 20191211\keil3_3（确定+返回+书签正确）\OBJ\HZ.hex
+[2019-12-17 14:15:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录自动关机 10分钟\OBJ\HZ.hex
+[2019-12-17 16:25:Program Success:38FFD8054D41383228720843 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录\OBJ\HZ.hex
+[2020-01-08 18:07:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\keil3_3（确定+返回+书签正确）赵维 20191211\keil3_3（确定+返回+书签正确）\OBJ\HZ.hex
+[2020-01-08 19:16:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\keil3_3（确定+返回+书签正确）赵维 20191211\keil3_3（确定+返回+书签正确）\OBJ\HZ.hex
+[2020-01-08 19:18:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 10分钟\OBJ\HZ.hex
+[2020-01-08 19:27:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 10分钟\OBJ\HZ.hex
+[2020-01-08 19:38:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 10分钟\OBJ\HZ.hex
+[2020-01-08 19:42:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 10分钟\OBJ\HZ.hex
+[2020-01-08 20:26:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 10分钟\OBJ\HZ.hex
+[2020-01-08 20:31:Program Success:32FFD6055056333415741143 C:\Users\Administrator\Desktop\五个目录自动关机 10分钟\OBJ\HZ.hex
+[2020-01-09 13:25:Program Success:32FFDA055056333429741143 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\七个目录\OBJ\HZ.hex
+[2020-01-16 19:09:Program Success:33FFDD055059363112880343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录\OBJ\HZ.hex
+[2020-01-16 21:05:Program Success:33FFD5055059363130890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\板子下载\汉字显示实验\OBJ\test.hex
+[2020-01-16 21:11:Program Success:33FFD5055059363130890343 C:\Users\Administrator\Desktop\五个目录10分钟自动关机20200116\OBJ\HZ.hex
+[2020-05-08 11:27:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\汉字显示实验\OBJ\test.hex
+[2020-05-08 11:33:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 11:37:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 12:54:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 13:03:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\五个目录10分钟自动关机20200116\OBJ\HZ.hex
+[2020-05-08 13:08:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 13:12:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 13:21:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 13:24:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 13:26:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 13:30:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 13:35:Program Success:33FFD6055059363132890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 19:03:Program Success:33FFDD055059363112880343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 19:34:Program Success:33FFDD055059363112880343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 19:55:Program Success:33FFD9055059363119510243 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 20:04:Program Success:33FFDD055059363112880343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 20:35:Program Success:33FFD5055059363119850343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 20:42:Program Success:33FFD5055059363119850343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 20:45:Program Success:33FFDA055059363111850343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-08 20:48:Program Success:33FFD9055059363119510243 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-09 09:59:Program Success:33FFD5055059363119850343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-09 12:39:Program Success:33FFD7055059363127880343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-09 12:52:Program Success:33FFD7055059363127880343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\汉字显示实验\OBJ\test.hex
+[2020-05-09 12:55:Program Success:33FFD7055059363127880343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-09 13:00:Program Success:34FFDB054153383922731457 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\汉字显示实验\OBJ\test.hex
+[2020-05-09 13:03:Program Success:34FFDB054153383922731457 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-10 20:40:Program Success:33FFDF055059363116890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\汉字显示实验\OBJ\test.hex
+[2020-05-10 20:43:Program Success:33FFDF055059363116890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-11 15:32:Program Success:33FFD8055059363123890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\汉字显示实验\OBJ\test.hex
+[2020-05-11 15:34:Program Success:33FFD8055059363123890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-12 13:54:Program Success:33FFDC055059363109850343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\汉字显示实验\OBJ\test.hex
+[2020-05-12 13:56:Program Success:33FFDC055059363109850343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-12 13:57:Program Success:33FFDA055059363111850343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\汉字显示实验\OBJ\test.hex
+[2020-05-12 14:01:Program Success:33FFDA055059363111850343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\书签改写使用内存分配\OBJ\HZ.hex
+[2020-05-15 09:35:Program Success:33FFD8055059363123890343 C:\Users\Administrator\Desktop\书签改写+目录翻页\OBJ\HZ.hex
+[2020-05-15 09:40:Program Success:33FFD8055059363123890343 C:\Users\Administrator\Desktop\书签改写+目录翻页\OBJ\HZ.hex
+[2020-05-17 16:29:Program Success:33FFD8055059363123890343 C:\Users\Administrator\Desktop\书签改写+目录翻页\OBJ\HZ.hex
+[2020-05-17 16:34:Program Success:33FFD8055059363123890343 C:\Users\Administrator\Desktop\书签改写+目录翻页\OBJ\HZ.hex
+[2020-05-20 14:16:Program Success:33FFD9055059363111860343 C:\Users\Administrator\Desktop\书签改写+目录翻页\OBJ\HZ.hex
+[2020-05-20 14:21:Program Success:33FFD9055059363111860343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\汉字显示实验\OBJ\test.hex
+[2020-05-20 14:24:Program Success:33FFD9055059363111860343 C:\Users\Administrator\Desktop\书签改写+目录翻页\OBJ\HZ.hex
+[2020-05-20 15:41:Program Success:33FFD7055059363120890343 C:\Users\Administrator\Desktop\实验室\实验室\汉盲嵌入式端程序\汉字显示实验\OBJ\test.hex
+[2020-05-20 15:46:Program Success:33FFD7055059363120890343 C:\Users\Administrator\Desktop\书签改写+目录翻页\OBJ\HZ.hex
+[2020-05-21 13:39:Program Success:33FFD5055059363130890343 C:\Users\Administrator\Desktop\书签改写+目录翻页\OBJ\HZ.hex
+[2020-05-29 16:41:Program Success:33FFD5055059363130890343 C:\Users\Administrator\Desktop\实验（翻页+书签）\OBJ\HZ.hex
+[2020-05-29 19:25:Program Success:33FFD5055059363130890343 C:\Users\Administrator\Desktop\ASCIItoDATA\OBJ\HZ.hex
+[2020-05-29 19:32:Program Success:33FFD5055059363130890343 C:\Users\Administrator\Desktop\ASCIItoDATA\OBJ\HZ.hex
+[2020-05-29 19:40:Program Success:33FFD5055059363130890343 C:\Users\Administrator\Desktop\实验（翻页+书签）\OBJ\HZ.hex
+[2020-05-30 17:46:Program Success:33FFD9055059363111860343 C:\Users\Administrator\Desktop\ASCIItoDATA\OBJ\HZ.hex
+[2020-05-30 17:50:Program Success:33FFD9055059363111860343 C:\Users\Administrator\Desktop\ASCIItoDATA\OBJ\HZ.hex
+[2020-06-01 14:02:Program Success:33FFD7055059363127890343 C:\Users\Administrator\Desktop\程序烧录\test.hex
+[2020-06-01 14:18:Program Success:33FFD7055059363127890343 C:\Users\Administrator\Desktop\书签改写+目录翻页\OBJ\HZ.hex
+[2020-06-01 15:31:Program Success:33FFD7055059363117520243 C:\Users\DELL\Desktop\程序烧录20200601\test.hex
+[2020-06-01 15:41:Program Success:33FFD7055059363117520243 C:\Users\DELL\Desktop\程序烧录20200601\HZ.hex
+[2020-06-01 20:46:Program Success:33FFD8055059363115850343 C:\Users\Administrator\Desktop\程序烧录\test.hex
+[2020-06-01 21:23:Program Success:33FFD8055059363115850343 C:\Users\Administrator\Desktop\程序烧录\HZ.hex
+[2020-06-01 21:29:Program Success:33FFD5055059363119850343 C:\Users\Administrator\Desktop\程序烧录\test.hex
+[2020-06-01 21:34:Program Success:33FFD5055059363119850343 C:\Users\Administrator\Desktop\程序烧录\HZ.hex
+[2020-08-31 15:08:Program Success:33FFD6055059363128880343 C:\Users\Administrator\Desktop\盲文程序烧录20200825\HZ.hex
+[2020-09-02 14:07:Program Success:33FFD6055059363122880343 C:\Users\Administrator\Desktop\盲文程序烧录20200825\HZ.hex
+[2020-09-02 14:18:Program Success:33FFDA055059363128520243 C:\Users\Administrator\Desktop\盲文程序烧录20200825\HZ.hex
+[2020-09-03 10:52:Program Success:33FFDA055059363120510243 C:\Users\Administrator\Desktop\盲文程序烧录20200825\HZ.hex
+[2020-09-04 11:15:Program Success:33FFD8055059363115890343 C:\Users\Administrator\Desktop\盲文程序烧录20200825\HZ.hex
+[2021-01-21 16:56:Program Success:33FFD6055059363118890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\盲人按摩盲文机器 书签重写 烧录到机器)\OBJ\HZ.hex
+[2021-01-21 17:03:Program Success:33FFD9055059363118850343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\盲人按摩盲文机器 书签重写 烧录到机器)\OBJ\HZ.hex
+[2021-01-21 17:04:Program Success:33FFD8055059363121880343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\盲人按摩盲文机器 书签重写 烧录到机器)\OBJ\HZ.hex
+[2021-03-04 17:12:Program Success:33FFD6055059363132890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-03-04 19:19:Program Success:33FFD6055059363132890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-03-05 14:23:Program Success:33FFD6055059363132890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-03-12 12:52:Program Success:33FFD6055059363132890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\盲人按摩盲文机器 书签重写 烧录到机器)\OBJ\HZ.hex
+[2021-03-12 12:54:Program Success:33FFD6055059363132890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-04-08 12:39:Program Success:33FFD8055059363139840343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-04-09 12:49:Program Success:33FFDA055059363125890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-04-15 14:51:Program Success:33FFD6055059363118890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\中英文混合盲文教材\OBJ\HZ.hex
+[2021-04-15 15:03:Program Success:33FFD6055059363118890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-04-23 14:13:Program Success:33FFD8055059363127700443 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-04-23 14:31:Program Success:33FFDB055059363120710443 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-04-27 11:21:Program Success:33FFD8055059363139840343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-04-27 17:36:Program Success:33FFD6055059363132890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\2点修改\2点修改\OBJ\HZ.hex
+[2021-04-28 09:30:Program Success:33FFD6055059363132890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\2点修改\2点修改\OBJ\HZ.hex
+[2021-05-31 17:52:Program Success:33FFD9055059363131850343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\2点修改\2点修改\OBJ\HZ.hex
+[2021-05-31 17:54:Program Success:33FFD6055059363126890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\2点修改\2点修改\OBJ\HZ.hex
+[2021-06-02 11:11:Program Success:34FFDB054153383922731457 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\2点修改\2点修改\OBJ\HZ.hex
+[2021-06-02 12:26:Program Success:34FFDB054153383922731457 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\2点修改\2点修改\OBJ\HZ.hex
+[2021-06-02 12:37:Program Success:33FFD9055059363131850343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\2点修改\2点修改\OBJ\HZ.hex
+[2021-06-02 12:38:Program Success:33FFD6055059363126890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\2点修改\2点修改\OBJ\HZ.hex
+[2021-06-02 12:51:Program Success:33FFD4055059363121520243 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\2点修改\2点修改\OBJ\HZ.hex
+[2021-06-02 12:59:Program Success:33FFD6055059363118890343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\2点修改\2点修改\OBJ\HZ.hex
+[2021-06-23 20:46:Program Success:33FFD9055059363126880343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\01学习demo\实验40 汉字显示实验\OBJ\HZ.hex
+[2021-06-23 20:54:Program Success:33FFD9055059363126880343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\新版对齐\OBJ\HZ.hex
+[2021-06-23 20:57:Program Success:33FFD9055059363126880343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\新版对齐\OBJ\HZ.hex
+[2021-06-23 21:19:Program Success:33FFD9055059363126880343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\新版对齐\OBJ\HZ.hex
+[2021-06-23 21:40:Program Success:33FFD9055059363126880343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\02测试demo\20方学习机\不固定目录数目\中文版本\新版对齐\OBJ\HZ.hex
+[2021-07-08 17:33:Program Success:33FFD9055059363126880343 C:\Users\10101\Desktop\新版对齐显示无误\新版对齐显示无误\OBJ\HZ.hex
+[2021-07-09 11:32:Program Success:33FFDD055059363112880343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-07-09 11:36:Program Success:32FFD6055056333415741143 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-07-09 11:39:Program Success:33FFDD055059363112880343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致\语音和显示一致\OBJ\HZ.hex
+[2021-07-14 17:37:Program Success:33FFD9055059363126880343 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\中英文混合盲文教材\OBJ\HZ.hex
+[2021-07-14 20:05:Program Success:33FFD5055059363117510243 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\中英文混合盲文教材\OBJ\HZ.hex
+[2021-07-14 20:33:Program Success:33FFD5055059363117510243 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致（中英混合）\语音和显示一致\OBJ\HZ.hex
+[2021-07-14 20:53:Program Success:33FFD5055059363117510243 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致（中英混合）\语音和显示一致\OBJ\HZ.hex
+[2021-07-14 21:09:Program Success:33FFD5055059363117510243 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致（中英混合）\语音和显示一致\OBJ\HZ.hex
+[2021-07-14 21:13:Program Success:33FFD5055059363117510243 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致（中英混合）\语音和显示一致\OBJ\HZ.hex
+[2021-07-14 21:16:Program Success:33FFD5055059363117510243 D:\实验室\1. 实验室内容\汉盲嵌入式端程序\03烧录demo\20方学习机\语音和显示一致（中英混合）\语音和显示一致\OBJ\HZ.hex

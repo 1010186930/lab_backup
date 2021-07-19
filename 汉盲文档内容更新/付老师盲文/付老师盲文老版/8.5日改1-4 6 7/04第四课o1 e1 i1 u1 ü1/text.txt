@@ -1,0 +1,41 @@
+2 6µã  ÔÏÄ¸ o                        
+2 6µã  ÔÏÄ¸ e                        
+2 4µã  ÔÏÄ¸ i                        
+1 3 6µã  ÔÏÄ¸ u                      
+3 4 6µã  ÔÏÄ¸ ¨¹                      
+ÔÏÄ¸ o Éùµ÷ o1 o2 o3 o4              
+ÔÏÄ¸ e Éùµ÷ e1 e2 e3 e4              
+ÔÏÄ¸ i Éùµ÷ i1 i2 i3 i4              
+ÔÏÄ¸ u Éùµ÷ u1 u2 u3 u4              
+ÔÏÄ¸ ¨¹ Éùµ÷ ¨¹1 ¨¹2 ¨¹3 ¨¹4              
+bo1  bo2  bo3  bo4                   
+po1  po2  po3  bo4                   
+mo1  mo2  mo3  mo4                   
+fo1  fo2  fo3  fo4                   
+de1  de2  de3  de4                   
+te1  te2  te3  te4                   
+ne1  ne2  ne3  ne4                   
+le1  le2  le3  le4                   
+bi1  bi2  bi3  bi4                   
+pi1  pi2  pi3  pi4                   
+mi1  mi2  mi3  mi4                   
+di1  di2  di3  di4                   
+ti1  ti2  ti3  ti4                   
+ni1  ni2  ni3  ni4                   
+li1  li2  li3  li4                   
+bu1  bu2  bu3  bu4                   
+pu1  pu2  pu3  pu4                   
+mu1  mu2  mu3  mu4                   
+fu1  fu2  fu3  fu4                   
+du1  du2  du3  du4                   
+tu1  tu2  tu3  tu4                   
+nu1  nu2  nu3  nu4                   
+lu1  lu2  lu3  lu4                   
+n¨¹1  n¨¹2  n¨¹3  n¨¹4                   
+l¨¹1  l¨¹2  l¨¹3  l¨¹4                   
+bo2 bo ²®²®                          
+di1 di µÜµÜ                          
+yi1 fu ÒÂ·þ                          
+da1 di4  ´óµØ                        
+li2 yu2  ÀðÓã                        
+ma2 yi2  ÂìÒÏ                        

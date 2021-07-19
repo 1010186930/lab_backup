@@ -1,0 +1,5 @@
+"..\obj\main.obj",
+"..\obj\usart.obj",
+"..\obj\SYN6288.obj" 
+TO "..\obj\YS-V0.3" 
+PRINT(".\YS-V0.m51") RAMSIZE(256) 

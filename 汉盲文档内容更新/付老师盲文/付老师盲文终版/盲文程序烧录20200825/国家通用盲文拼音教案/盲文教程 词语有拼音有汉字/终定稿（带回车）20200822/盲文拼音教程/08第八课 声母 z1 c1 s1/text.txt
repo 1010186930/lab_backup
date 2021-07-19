@@ -1,0 +1,24 @@
+1 3 5 6点 声母 z1                    
+1 4点 声母 c1                        
+2 3 4点 声母 s1                      
+声母  z1  c1  s1                     
+zī  zǐ  zì                        
+cī  cí  cǐ  cì                   
+sī  sǐ  sì                        
+zā  zá  zǎ                        
+zé  zè                             
+zū  zú  zǔ                        
+cā  cǎ                             
+cè                                  
+cū cú cù                          
+sā sǎ sà                          
+sè                                  
+sū sú sù                          
+zǔ fù  祖父                        
+sī jī  司机                        
+sù dù  速度                        
+cā chē  擦车                       
+zì jí  自己                        
+sù shè  宿舍                       
+zǐ sè  紫色                        
+cí qì  瓷器                        

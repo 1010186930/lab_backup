@@ -1,0 +1,262 @@
+BL51 BANKED LINKER/LOCATER V6.22                                                        09/21/2013  09:38:15  PAGE 1
+
+
+BL51 BANKED LINKER/LOCATER V6.22, INVOKED BY:
+C:\KEIL\C51\BIN\BL51.EXE ..\obj\main.obj, ..\obj\usart.obj, ..\obj\XFS5152.obj TO ..\obj\YS-XFS5051 PRINT (..\obj\YS-XFS
+>> 5051.m51) RAMSIZE (256)
+
+
+MEMORY MODEL: SMALL
+
+
+INPUT MODULES INCLUDED:
+  ..\obj\main.obj (MAIN)
+  ..\obj\usart.obj (USART)
+  ..\obj\XFS5152.obj (XFS5152)
+  C:\KEIL\C51\LIB\C51S.LIB (?C_STARTUP)
+  C:\KEIL\C51\LIB\C51S.LIB (?C?COPY)
+  C:\KEIL\C51\LIB\C51S.LIB (?C?CLDPTR)
+  C:\KEIL\C51\LIB\C51S.LIB (STRLEN)
+  C:\KEIL\C51\LIB\C51S.LIB (?C_INIT)
+
+
+LINK MAP OF MODULE:  ..\obj\YS-XFS5051 (MAIN)
+
+
+            TYPE    BASE      LENGTH    RELOCATION   SEGMENT NAME
+            -----------------------------------------------------
+
+            * * * * * * *   D A T A   M E M O R Y   * * * * * * *
+            REG     0000H     0008H     ABSOLUTE     "REG BANK 0"
+            DATA    0008H     0014H     UNIT         ?DT?XFS5152
+            DATA    001CH     000AH     UNIT         _DATA_GROUP_
+            DATA    0026H     0003H     UNIT         ?DT?_YS_XFS_SET?XFS5152
+            IDATA   0029H     0001H     UNIT         ?STACK
+
+            * * * * * * *  X D A T A   M E M O R Y  * * * * * * *
+            XDATA   0000H     0032H     UNIT         _XDATA_GROUP_
+
+            * * * * * * *   C O D E   M E M O R Y   * * * * * * *
+            CODE    0000H     0003H     ABSOLUTE     
+            CODE    0003H     010FH     UNIT         ?C?LIB_CODE
+            CODE    0112H     008CH     UNIT         ?C_C51STARTUP
+            CODE    019EH     0042H     UNIT         ?PR?_XFS_FRAMEINFO?XFS5152
+            CODE    01E0H     0026H     UNIT         ?PR?_PRINTCOM?USART
+            CODE    0206H     001FH     UNIT         ?C_INITSEG
+            CODE    0225H     0019H     UNIT         ?CO?MAIN
+            CODE    023EH     0016H     UNIT         ?PR?UARTINI?USART
+            CODE    0254H     0015H     UNIT         ?PR?_STRLEN?STRLEN
+            CODE    0269H     0014H     UNIT         ?PR?_YS_XFS_SET?XFS5152
+            CODE    027DH     000EH     UNIT         ?PR?_UARTSENDBYTE?USART
+            CODE    028BH     000DH     UNIT         ?PR?MAIN?MAIN
+            CODE    0298H     000DH     UNIT         ?PR?MCU_INIT?MAIN
+
+
+
+OVERLAY MAP OF MODULE:   ..\obj\YS-XFS5051 (MAIN)
+
+
+SEGMENT                              DATA_GROUP          XDATA_GROUP
+  +--> CALLED SEGMENT              START    LENGTH     START    LENGTH
+----------------------------------------------------------------------
+BL51 BANKED LINKER/LOCATER V6.22                                                      09/21/2013  09:38:15  PAGE 2
+
+
+?C_C51STARTUP                      -----    -----      -----    -----
+  +--> ?PR?MAIN?MAIN
+  +--> ?C_INITSEG
+
+?PR?MAIN?MAIN                      -----    -----      -----    -----
+  +--> ?PR?MCU_INIT?MAIN
+  +--> ?PR?UARTINI?USART
+  +--> ?CO?MAIN
+  +--> ?PR?_XFS_FRAMEINFO?XFS5152
+
+?PR?_XFS_FRAMEINFO?XFS5152         001CH    0007H      0000H    0032H
+  +--> ?PR?_STRLEN?STRLEN
+  +--> ?PR?_PRINTCOM?USART
+
+?PR?_PRINTCOM?USART                0023H    0003H      -----    -----
+  +--> ?PR?_UARTSENDBYTE?USART
+
+
+
+SYMBOL TABLE OF MODULE:  ..\obj\YS-XFS5051 (MAIN)
+
+  VALUE           TYPE          NAME
+  ----------------------------------
+
+  -------         MODULE        MAIN
+  C:0000H         SYMBOL        _ICE_DUMMY_
+  D:0080H         PUBLIC        P0
+  D:0090H         PUBLIC        P1
+  D:00A0H         PUBLIC        P2
+  D:00B0H         PUBLIC        P3
+  D:00E8H         PUBLIC        P4
+  D:00A8H         PUBLIC        IE
+  D:00B8H         PUBLIC        IP
+  C:028BH         PUBLIC        main
+  D:0098H         PUBLIC        SCON
+  D:0088H         PUBLIC        TCON
+  D:00C8H         PUBLIC        T2CON
+  D:00D0H         PUBLIC        PSW
+  C:0298H         PUBLIC        MCU_init
+  -------         PROC          MAIN
+  C:028BH         LINE#         30
+  C:028BH         LINE#         31
+  C:028BH         LINE#         32
+  C:028EH         LINE#         33
+  C:0291H         LINE#         35
+  C:0296H         LINE#         36
+  C:0296H         LINE#         37
+  C:0296H         LINE#         40
+  -------         ENDPROC       MAIN
+  -------         PROC          MCU_INIT
+  C:0298H         LINE#         51
+  C:0298H         LINE#         52
+  C:0298H         LINE#         53
+  C:029BH         LINE#         54
+  C:029EH         LINE#         55
+  C:02A1H         LINE#         56
+  C:02A4H         LINE#         58
+BL51 BANKED LINKER/LOCATER V6.22                                                      09/21/2013  09:38:15  PAGE 3
+
+
+  -------         ENDPROC       MCU_INIT
+  -------         ENDMOD        MAIN
+
+  -------         MODULE        USART
+  C:0000H         SYMBOL        _ICE_DUMMY_
+  D:0090H         PUBLIC        P1
+  D:00B0H         PUBLIC        P3
+  D:00E8H         PUBLIC        P4
+  B:00A8H.7       PUBLIC        EA
+  D:00A8H         PUBLIC        IE
+  B:00A8H.4       PUBLIC        ES
+  D:00B8H         PUBLIC        IP
+  B:0098H.1       PUBLIC        TI
+  C:01E0H         PUBLIC        _PrintCom
+  D:0099H         PUBLIC        SBUF
+  D:0087H         PUBLIC        PCON
+  D:0098H         PUBLIC        SCON
+  D:0089H         PUBLIC        TMOD
+  D:0088H         PUBLIC        TCON
+  C:023EH         PUBLIC        UartIni
+  D:008DH         PUBLIC        TH1
+  B:0088H.6       PUBLIC        TR1
+  C:027DH         PUBLIC        _UARTSendByte
+  D:00C8H         PUBLIC        T2CON
+  D:00D0H         PUBLIC        PSW
+  -------         PROC          UARTINI
+  C:023EH         LINE#         21
+  C:023EH         LINE#         22
+  C:023EH         LINE#         24
+  C:0241H         LINE#         26
+  C:0244H         LINE#         28
+  C:0247H         LINE#         30
+  C:024AH         LINE#         32
+  C:024DH         LINE#         34
+  C:024FH         LINE#         35
+  C:0251H         LINE#         36
+  C:0253H         LINE#         37
+  -------         ENDPROC       UARTINI
+  -------         PROC          _UARTSENDBYTE
+  D:0007H         SYMBOL        DAT
+  C:027DH         LINE#         44
+  C:027DH         LINE#         45
+  C:027DH         LINE#         46
+  C:027FH         LINE#         47
+  C:0281H         LINE#         48
+  C:0283H         LINE#         49
+  C:0286H         LINE#         50
+  C:0288H         LINE#         51
+  C:028AH         LINE#         52
+  -------         ENDPROC       _UARTSENDBYTE
+  -------         PROC          _PRINTCOM
+  D:0023H         SYMBOL        DAT
+  D:0005H         SYMBOL        len
+  -------         DO            
+  D:0006H         SYMBOL        i
+  -------         ENDDO         
+  C:01E0H         LINE#         60
+BL51 BANKED LINKER/LOCATER V6.22                                                      09/21/2013  09:38:15  PAGE 4
+
+
+  C:01E6H         LINE#         61
+  C:01E6H         LINE#         63
+  C:01EDH         LINE#         64
+  C:01EDH         LINE#         65
+  C:0202H         LINE#         66
+  C:0205H         LINE#         67
+  -------         ENDPROC       _PRINTCOM
+  -------         ENDMOD        USART
+
+  -------         MODULE        XFS5152
+  C:0000H         SYMBOL        _ICE_DUMMY_
+  D:0090H         PUBLIC        P1
+  D:00B0H         PUBLIC        P3
+  D:00E8H         PUBLIC        P4
+  C:0269H         PUBLIC        _YS_XFS_Set
+  D:00A8H         PUBLIC        IE
+  D:00B8H         PUBLIC        IP
+  D:0008H         PUBLIC        XFS_StopCom
+  D:000CH         PUBLIC        XFS_PowerDownCom
+  D:0098H         PUBLIC        SCON
+  D:0088H         PUBLIC        TCON
+  D:0010H         PUBLIC        XFS_RecoverCom
+  C:019EH         PUBLIC        _XFS_FrameInfo
+  D:0014H         PUBLIC        XFS_ChackCom
+  D:0018H         PUBLIC        XFS_SuspendCom
+  D:00C8H         PUBLIC        T2CON
+  D:00D0H         PUBLIC        PSW
+  -------         PROC          _XFS_FRAMEINFO
+  D:001CH         SYMBOL        HZdata
+  -------         DO            
+  X:0000H         SYMBOL        Frame_Info
+  D:001FH         SYMBOL        HZ_Length
+  D:0021H         SYMBOL        i
+  -------         ENDDO         
+  C:019EH         LINE#         40
+  C:01A4H         LINE#         41
+  C:01A4H         LINE#         46
+  C:01A9H         LINE#         47
+  C:01B0H         LINE#         50
+  C:01B6H         LINE#         51
+  C:01B9H         LINE#         52
+  C:01BEH         LINE#         53
+  C:01C2H         LINE#         54
+  C:01C4H         LINE#         57
+  C:01D2H         LINE#         58
+  -------         ENDPROC       _XFS_FRAMEINFO
+  -------         PROC          _YS_XFS_SET
+  D:0026H         SYMBOL        Info_data
+  -------         DO            
+  D:0005H         SYMBOL        Com_Len
+  -------         ENDDO         
+  C:0269H         LINE#         70
+  C:026FH         LINE#         71
+  C:026FH         LINE#         73
+  C:0274H         LINE#         74
+  -------         ENDPROC       _YS_XFS_SET
+  -------         ENDMOD        XFS5152
+BL51 BANKED LINKER/LOCATER V6.22                                                      09/21/2013  09:38:15  PAGE 5
+
+
+
+  -------         MODULE        ?C?COPY
+  C:00D3H         PUBLIC        ?C?COPY
+  -------         ENDMOD        ?C?COPY
+
+  -------         MODULE        ?C?CLDPTR
+  C:00F9H         PUBLIC        ?C?CLDPTR
+  -------         ENDMOD        ?C?CLDPTR
+
+  -------         MODULE        STRLEN
+  C:0254H         PUBLIC        _STRLEN
+  -------         ENDMOD        STRLEN
+
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+
+Program Size: data=42.0 xdata=50 code=677
+LINK/LOCATE RUN COMPLETE.  1 WARNING(S),  0 ERROR(S)

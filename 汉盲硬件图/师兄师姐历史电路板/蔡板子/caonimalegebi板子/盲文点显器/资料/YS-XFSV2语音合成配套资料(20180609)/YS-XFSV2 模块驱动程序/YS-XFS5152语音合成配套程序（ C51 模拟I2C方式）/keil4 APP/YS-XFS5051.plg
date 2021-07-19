@@ -1,0 +1,54 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\资料珍藏\TB文件保存\产品开发原始资料保存\YS-XFS5051高端语音合成模块\YS-5051驱动程序\YS-5051语音合成配套程序（STC51核）\keil4 APP\YS-XFS5051.uvproj
+Project File Date:  12/24/2012
+
+<h2>Output:</h2>
+Build target 'YS-XFS5051'
+compiling main.c...
+..\CODE\CONFIG.H(25): warning C318: can't open file 'LE52.H'
+..\CODE\CONFIG.H(27): warning C318: can't open file 'usart.h'
+..\CODE\MAIN.C(33): warning C206: 'UartIni': missing function-prototype
+..\CODE\MAIN.C(53): error C202: 'P0': undefined identifier
+..\CODE\MAIN.C(54): error C202: 'P1': undefined identifier
+..\CODE\MAIN.C(55): error C202: 'P2': undefined identifier
+..\CODE\MAIN.C(56): error C202: 'P3': undefined identifier
+compiling XFS5051.C...
+..\user\XFS5051.C(17): warning C318: can't open file 'config.h'
+..\USER\XFS5051.C(22): error C129: missing ';' before 'XFS_StopCom'
+compiling usart.c...
+..\user\usart.c(13): warning C318: can't open file 'config.h'
+..\USER\USART.C(24): error C202: 'SCON': undefined identifier
+..\USER\USART.C(26): error C202: 'TMOD': undefined identifier
+..\USER\USART.C(28): error C202: 'PCON': undefined identifier
+..\USER\USART.C(30): error C202: 'TH1': undefined identifier
+..\USER\USART.C(32): error C202: 'IE': undefined identifier
+..\USER\USART.C(34): error C202: 'TR1': undefined identifier
+..\USER\USART.C(35): error C202: 'ES': undefined identifier
+..\USER\USART.C(36): error C202: 'EA': undefined identifier
+..\USER\USART.C(44): error C141: syntax error near 'DAT', expected ')'
+..\USER\USART.C(46): error C202: 'ES': undefined identifier
+..\USER\USART.C(47): error C202: 'TI': undefined identifier
+..\USER\USART.C(48): error C202: 'SBUF': undefined identifier
+..\USER\USART.C(49): error C202: 'TI': undefined identifier
+..\USER\USART.C(50): error C202: 'TI': undefined identifier
+..\USER\USART.C(51): error C202: 'ES': undefined identifier
+..\USER\USART.C(60): error C141: syntax error near '*', expected ')'
+..\USER\USART.C(62): error C141: syntax error near 'i'
+..\USER\USART.C(62): error C202: 'i': undefined identifier
+..\USER\USART.C(63): error C202: 'i': undefined identifier
+..\USER\USART.C(65): error C202: 'DAT': undefined identifier
+Target not created
+Build target 'YS-XFS5051'
+compiling main.c...
+compiling XFS5051.C...
+compiling usart.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5051
+Program Size: data=46.0 xdata=0 code=419
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 1 Warning(s).

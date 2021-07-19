@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\资料珍藏\TB文件保存\产品开发原始资料保存\YS-XFSV2(5152)  语音合成模块\YS-5152驱动程序\YS-XFS5152语音合成配套程序（ C51 串口通信方式）\keil4 APP\YS-XFS5051.uvproj
+Project File Date:  07/03/2013
+
+<h2>Output:</h2>
+Build target 'YS-XFS5051'
+compiling main.c...
+compiling usart.c...
+compiling XFS5152.C...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+Program Size: data=42.0 xdata=50 code=683
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 1 Warning(s).
+Build target 'YS-XFS5051'
+compiling main.c...
+..\CODE\MAIN.C(35): warning C209: '_XFS_FrameInfo': too few actual parameters
+..\CODE\MAIN.C(35): warning C214: 'Argument': conversion: pointer to non-pointer
+compiling XFS5152.C...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+Program Size: data=42.0 xdata=50 code=677
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 3 Warning(s).
+Build target 'YS-XFS5051'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+Program Size: data=42.0 xdata=50 code=677
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 1 Warning(s).
+Build target 'YS-XFS5051'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+Program Size: data=42.0 xdata=50 code=677
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 1 Warning(s).

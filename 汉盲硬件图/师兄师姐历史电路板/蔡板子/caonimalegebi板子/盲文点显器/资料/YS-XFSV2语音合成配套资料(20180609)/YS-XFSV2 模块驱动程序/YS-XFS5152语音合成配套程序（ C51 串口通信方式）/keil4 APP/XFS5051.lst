@@ -1,0 +1,95 @@
+C51 COMPILER V9.00   XFS5051                                                               12/24/2012 11:47:00 PAGE 1   
+
+
+C51 COMPILER V9.00, COMPILATION OF MODULE XFS5051
+OBJECT MODULE PLACED IN .\XFS5051.obj
+COMPILER INVOKED BY: C:\Program Files\keil 4\C51\BIN\C51.EXE ..\user\XFS5051.C BROWSE DEBUG OBJECTEXTEND PRINT(.\XFS5051
+                    -.lst) TABS(2) OBJECT(.\XFS5051.obj)
+
+line level    source
+
+   1          /***************************飞音云电子****************************
+   2          **  工程名称：YS-XFS5051语音合成配套程序
+   3          **  CPU: STC89LE52
+   4          **  晶振：22.1184MHZ
+   5          **  波特率：9600 bit/S
+   6          **  配套产品信息：YS-XFS5051语音合成模块
+   7          **                http://yuesheng001.taobao.com
+   8          **  作者：zdings
+   9          **  联系：751956552@qq.com
+  10          **  修改日期：2012.12.23
+  11          **  说明：用户在使用程序时，只需要编写好 串口发送函数PrintCom()；即可，
+  12                   直接调用本文件进行播放即可，在编写程序时，注意判断语音合成模
+  13                   块的返回值，根据返回值进行下一次播放，如不接收返回值则无法进
+  14                   行下一次播放。
+  15          /***************************飞音云电子******************************/
+  16          
+  17          #include "config.h"
+*** WARNING C318 IN LINE 17 OF ..\user\XFS5051.C: can't open file 'config.h'
+  18          
+  19          
+  20          
+  21          /**************芯片设置命令*********************/
+  22          uint8_t XFS_StopCom[]={0xFD,0X00,0X01,0X02};//停止合成
+*** ERROR C129 IN LINE 22 OF ..\USER\XFS5051.C: missing ';' before 'XFS_StopCom'
+  23          uint8_t XFS_SuspendCom[]={0XFD,0X00,0X01,0X03};//暂停合成
+  24          uint8_t XFS_RecoverCom[]={0XFD,0X00,0X01,0X04};//恢复合成
+  25          uint8_t XFS_ChackCom[]={0XFD,0X00,0X01,0X21};//状态查询
+  26          uint8_t XFS_PowerDownCom[]={0XFD,0X00,0X01,0X88};//进入POWER DOWN 状态命令
+  27          
+  28          /***********************************************/
+  29          
+  30          
+  31          
+  32          /***********************************************************
+  33          * 名    称：  YS-XFS5051 文本合成函数
+  34          * 功    能：  发送合成文本到XFS5051芯片进行合成播放
+  35          * 入口参数：  *HZdata:文本指针变量 
+  36          * 出口参数：
+  37          * 说    明： 本函数只用于文本合成，具备背景音乐选择。默认波特率9600bps。           
+  38          * 调用方法：例： SYN_FrameInfo（“飞音云电子”）；
+  39          **********************************************************/
+  40          void XFS_FrameInfo(uint8_t *HZdata)
+  41          {
+  42          /****************需要发送的文本**********************************/ 
+  43               unsigned  char  Frame_Info[5];
+  44                   unsigned  char  HZ_Length;  
+  45          
+  46                 unsigned  int i=0; 
+  47               HZ_Length =strlen(HZdata);       //需要发送文本的长度
+  48           
+  49          /*****************帧固定配置信息**************************************/           
+  50               Frame_Info[0] = 0xFD ;       //构造帧头FD
+  51               Frame_Info[1] = 0x00 ;       //构造数据区长度的高字节
+  52               Frame_Info[2] = HZ_Length + 2;     //构造数据区长度的低字节
+C51 COMPILER V9.00   XFS5051                                                               12/24/2012 11:47:00 PAGE 2   
+
+  53               Frame_Info[3] = 0x01 ;       //构造命令字：合成播放命令         
+  54               Frame_Info[4] = 0x01;       //文本编码格式：GBK 
+  55           
+  56          /*******************发送帧信息***************************************/      
+  57               PrintCom(Frame_Info,5); //发送帧配置
+  58               PrintCom(HZdata,HZ_Length); //发送文本
+  59          }
+  60          
+  61          
+  62          /***********************************************************
+  63          * 名    称： void  main(void)
+  64          * 功    能： 主函数 程序入口
+  65          * 入口参数： *Info_data:固定的配置信息变量 
+  66          * 出口参数：
+  67          * 说    明：本函数用于配置，停止合成、暂停合成等设置 ，默认波特率9600bps。           
+  68          * 调用方法：通过调用已经定义的相关数组进行配置。 
+  69          **********************************************************/
+  70          void YS_XFS_Set(uint8_t *Info_data)
+  71          {
+  72            uint8_t Com_Len;
+  73            Com_Len =strlen(Info_data);
+  74            PrintCom(Info_data,Com_Len);
+  75          }
+  76          
+  77          
+  78          
+  79          
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  1 ERROR(S)

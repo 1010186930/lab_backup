@@ -1,0 +1,5 @@
+"..\obj\main.obj",
+"..\obj\usart.obj",
+"..\obj\XFS5152.obj" 
+TO "..\obj\YS-XFS5051" 
+PRINT("..\obj\YS-XFS5051.m51") RAMSIZE(256) 

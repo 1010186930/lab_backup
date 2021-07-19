@@ -1,0 +1,180 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\资料珍藏\TB文件保存\产品开发原始资料保存\YS-XFSV2(5152)  语音合成模块\YS-5152驱动程序\YS-XFS5152语音合成配套程序（ C51 模拟I2C方式）\keil4 APP\YS-XFS5051.uvproj
+Project File Date:  01/11/2013
+
+<h2>Output:</h2>
+Build target 'YS-XFS5051'
+compiling main.c...
+..\CODE\MAIN.C(42): error C202: 'tim_cnt': undefined identifier
+..\CODE\MAIN.C(44): error C202: 'tim_cnt': undefined identifier
+..\CODE\MAIN.C(45): error C202: 'tim_flag': undefined identifier
+..\CODE\MAIN.C(46): error C202: 'UART_Rcnt': undefined identifier
+..\CODE\MAIN.C(47): error C202: 'UART_TXTcnt': undefined identifier
+..\CODE\MAIN.C(48): error C202: 'Sign_flag': undefined identifier
+compiling I2C_C.c...
+compiling usart.c...
+compiling XFS5152.C...
+Target not created
+Build target 'YS-XFS5051'
+compiling main.c...
+compiling I2C_C.c...
+compiling usart.c...
+compiling XFS5152.C...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_I2CSENDDATA?I2C_C
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+Program Size: data=52.1 xdata=50 code=1042
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 2 Warning(s).
+Build target 'YS-XFS5051'
+compiling main.c...
+compiling XFS5152.C...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UARTINI?USART
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?XFS5152
+Program Size: data=32.1 xdata=45 code=881
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 3 Warning(s).
+Build target 'YS-XFS5051'
+compiling main.c...
+compiling I2C_C.c...
+compiling usart.c...
+compiling XFS5152.C...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UARTINI?USART
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?XFS5152
+Program Size: data=32.1 xdata=45 code=881
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 3 Warning(s).
+Build target 'YS-XFS5051'
+compiling main.c...
+compiling I2C_C.c...
+compiling usart.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UARTINI?USART
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?XFS5152
+Program Size: data=32.1 xdata=45 code=881
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 3 Warning(s).
+Build target 'YS-XFS5051'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UARTINI?USART
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?XFS5152
+Program Size: data=32.1 xdata=45 code=881
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 3 Warning(s).
+Build target 'YS-XFS5051'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAY_10MS?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UARTINI?USART
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?XFS5152
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  XFS_REST
+    MODULE:  ..\obj\main.obj (MAIN)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  XFS_REST
+    MODULE:  ..\obj\main.obj (MAIN)
+    ADDRESS: 0311H
+Program Size: data=32.1 xdata=45 code=850
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 6 Warning(s).
+Build target 'YS-XFS5051'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UARTINI?USART
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?XFS5152
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  XFS_REST
+    MODULE:  ..\obj\main.obj (MAIN)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  XFS_REST
+    MODULE:  ..\obj\main.obj (MAIN)
+    ADDRESS: 02F4H
+Program Size: data=32.1 xdata=45 code=819
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 5 Warning(s).
+Build target 'YS-XFS5051'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UARTINI?USART
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?XFS5152
+Program Size: data=32.1 xdata=45 code=817
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 3 Warning(s).
+Build target 'YS-XFS5051'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UARTINI?USART
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?XFS5152
+Program Size: data=32.1 xdata=45 code=817
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 3 Warning(s).
+Build target 'YS-XFS5051'
+compiling main.c...
+compiling I2C_C.c...
+compiling usart.c...
+compiling XFS5152.C...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UARTINI?USART
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?XFS5152
+Program Size: data=32.1 xdata=45 code=817
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 3 Warning(s).
+Build target 'YS-XFS5051'
+compiling main.c...
+compiling I2C_C.c...
+compiling usart.c...
+compiling XFS5152.C...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UARTINI?USART
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_YS_XFS_SET?XFS5152
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?XFS5152
+Program Size: data=32.1 xdata=45 code=817
+creating hex file from "..\obj\YS-XFS5051"...
+"..\obj\YS-XFS5051" - 0 Error(s), 3 Warning(s).

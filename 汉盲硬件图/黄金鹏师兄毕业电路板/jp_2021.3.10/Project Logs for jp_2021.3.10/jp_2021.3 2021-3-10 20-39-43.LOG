@@ -1,0 +1,40 @@
+Added Component: Designator=J1(row A)
+Added Component: Designator=J2(row B)
+Added Component: Designator=J3(row B)
+Added Component: Designator=J4(row A)
+Added Pin To Net: NetName=P1 Pin=J1-1
+Added Pin To Net: NetName=P2 Pin=J1-2
+Added Pin To Net: NetName=P3 Pin=J1-3
+Added Pin To Net: NetName=P4 Pin=J1-4
+Added Pin To Net: NetName=P5 Pin=J1-5
+Added Pin To Net: NetName=P6 Pin=J1-6
+Added Pin To Net: NetName=P7 Pin=J1-7
+Added Pin To Net: NetName=P8 Pin=J1-8
+Added Pin To Net: NetName=P1 Pin=J2-1
+Added Pin To Net: NetName=P2 Pin=J2-2
+Added Pin To Net: NetName=P3 Pin=J2-3
+Added Pin To Net: NetName=P4 Pin=J2-4
+Added Pin To Net: NetName=P5 Pin=J2-5
+Added Pin To Net: NetName=P6 Pin=J2-6
+Added Pin To Net: NetName=P7 Pin=J2-7
+Added Pin To Net: NetName=P8 Pin=J2-8
+Added Pin To Net: NetName=P11 Pin=J3-1
+Added Pin To Net: NetName=P21 Pin=J3-2
+Added Pin To Net: NetName=P31 Pin=J3-3
+Added Pin To Net: NetName=P41 Pin=J3-4
+Added Pin To Net: NetName=P51 Pin=J3-5
+Added Pin To Net: NetName=P61 Pin=J3-6
+Added Pin To Net: NetName=P71 Pin=J3-7
+Added Pin To Net: NetName=P81 Pin=J3-8
+Added Pin To Net: NetName=P11 Pin=J4-1
+Added Pin To Net: NetName=P21 Pin=J4-2
+Added Pin To Net: NetName=P31 Pin=J4-3
+Added Pin To Net: NetName=P41 Pin=J4-4
+Added Pin To Net: NetName=P51 Pin=J4-5
+Added Pin To Net: NetName=P61 Pin=J4-6
+Added Pin To Net: NetName=P71 Pin=J4-7
+Added Pin To Net: NetName=P81 Pin=J4-8
+Added Member To Class: ClassName=jp_2021.3.10 Member=Component J1 row A
+Added Member To Class: ClassName=jp_2021.3.10 Member=Component J2 row B
+Added Member To Class: ClassName=jp_2021.3.10 Member=Component J3 row B
+Added Member To Class: ClassName=jp_2021.3.10 Member=Component J4 row A
