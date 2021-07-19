@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: htptb - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\DELL\AppData\Local\Temp\RSPB5C.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/htptb.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c"
+]
+Creating command line "cl.exe @C:\Users\DELL\AppData\Local\Temp\RSPB5C.tmp" 
+<h3>Output Window</h3>
+Compiling...
+htptb.c
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1338) : error C2059: syntax error : '}'
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1377) : error C2059: syntax error : '}'
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1426) : error C2059: syntax error : '}'
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1535) : error C2059: syntax error : '}'
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1584) : warning C4034: sizeof returns 0
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1597) : warning C4034: sizeof returns 0
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1628) : warning C4034: sizeof returns 0
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1643) : warning C4013: 'printf' undefined; assuming extern returning int
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1649) : warning C4034: sizeof returns 0
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1706) : warning C4172: returning address of local variable or temporary
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1714) : warning C4172: returning address of local variable or temporary
+F:\盲文阅读程序\C语言编写的中文分词程序-参考\中文分词\中文分词作业源代码和文档\htptb.c(1725) : warning C4172: returning address of local variable or temporary
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+htptb.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
